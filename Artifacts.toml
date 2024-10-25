@@ -1,0 +1,27 @@
+[[libMTIRI2020]]
+arch = "x86_64"
+git-tree-sha1 = "5bbc09594f4964cf5ac4c0ab37d0414e4a979b0d"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[libMTIRI2020.download]]
+    sha256 = "b8305744c0b6fed8d56f6e98a313d642573a7c7d4506bd085f4ac8b6cdffda06"
+    url = "https://github.com/N5N3/libMTIRI2020_jll.jl/releases/download/libMTIRI2020-v1.0.0+0/libMTIRI2020.v1.0.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[libMTIRI2020]]
+arch = "x86_64"
+git-tree-sha1 = "5ef32938daae06ca58d33b45b5a3edf0295c6c70"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[libMTIRI2020.download]]
+    sha256 = "88834a2f2a19ef4eb2d118256501156b040b881d6ebe5e63eebce2dd8657a170"
+    url = "https://github.com/N5N3/libMTIRI2020_jll.jl/releases/download/libMTIRI2020-v1.0.0+0/libMTIRI2020.v1.0.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[libMTIRI2020]]
+arch = "x86_64"
+git-tree-sha1 = "7fbfb8a4fa4310a6a6f46c9a1ba58eb80d438271"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[libMTIRI2020.download]]
+    sha256 = "c25c51a4cd57d7d1662ee3afcd603d7b3910ef607709e1c9eaa839c9d49e42e5"
+    url = "https://github.com/N5N3/libMTIRI2020_jll.jl/releases/download/libMTIRI2020-v1.0.0+0/libMTIRI2020.v1.0.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
